@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pandi Selvi
+
 
 ### Aspiring Software Engineer 💻
 
@@ -48,17 +48,9 @@ I'm a B.Tech Information Technology student passionate about building real-world
 
 A full-stack recruitment management system developed using React.js, Spring Boot and MySQL.
 
-### 📌 Crime Hotspot Pattern Detector
-
-A Spring Boot application designed to analyze crime data and identify potential hotspot areas.
-
 ### 📌 SafeDrive AI
 
 An AI-based road safety solution focused on intelligent monitoring and risk detection.
-
-### 📌 Personal Portfolio
-
-A responsive portfolio website showcasing my skills, projects and achievements.
 
 ---
 
@@ -74,11 +66,11 @@ A responsive portfolio website showcasing my skills, projects and achievements.
 
 ## 🤝 Connect With Me
 
-📧 Email: YOUR_EMAIL
+📧 Email: pandiselvips817631@gmail.com
 
-🔗 LinkedIn: YOUR_LINKEDIN_URL
+🔗 LinkedIn: https://www.linkedin.com/in/pandi-selvi-p-7b6513330/
 
-🌐 Portfolio: YOUR_PORTFOLIO_URL
+
 
 ---
 

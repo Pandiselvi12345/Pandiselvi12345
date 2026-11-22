@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Pandiselvi12345.png" width="140" />
 
-# Pandi Selvi P.
+# Pandi Selvi P
 
 ### B.Tech IT Student | Aspiring Software Developer
 

@@ -24,25 +24,71 @@
 - 🎨 Exploring UI/UX Design and Data Analytics.
 - 🎯 Aspiring to become a skilled Software Engineer.
 
-## 💻 Technical Skills
+## 🛠️ TECHNICAL SKILLS
 
-**Programming Languages**
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python" />
-
-**Frontend Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python" height="55"/>
+</p>
+<p align="center">
+C++ &nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp;&nbsp; Python
+</p>
 
 ---
+
+### 🌐 Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="55"/>
+</p>
+<p align="center">
+HTML &nbsp;&nbsp; CSS &nbsp;&nbsp; JavaScript &nbsp;&nbsp; React.js
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring" height="55"/>
+</p>
+<p align="center">
+Spring Boot
+</p>
+
+---
+
+### 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+</p>
+<p align="center">
+MySQL | SQL
+</p>
+
+---
+
+### 🎨 Design & Analytics
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma" height="55"/>
+</p>
+<p align="center">
+Figma | UI/UX Design | Power BI | Data Analytics
+</p>
+
+---
+
+### 🔧 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="55"/>
+</p>
+<p align="center">
+Git | GitHub | VS Code | IntelliJ IDEA
+</p>
 
 ## 🚀 My Projects
 
